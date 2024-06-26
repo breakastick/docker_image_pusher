@@ -7,3 +7,4 @@ xhofe/alist:latest
 cloudflare/cloudflared
 cooderl/wewe-rss-sqlite
 miniflux/miniflux
+synctvorg/synctv
