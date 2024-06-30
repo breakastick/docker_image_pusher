@@ -8,3 +8,4 @@ miniflux/miniflux
 synctvorg/synctv
 jellyfin/jellyfin
 zishuo/embyserver
+tinymediamanager/tinymediamanager
