@@ -6,3 +6,5 @@ cloudflare/cloudflared
 cooderl/wewe-rss-sqlite
 miniflux/miniflux
 synctvorg/synctv
+jellyfin/jellyfin
+zishuo/embyserver
