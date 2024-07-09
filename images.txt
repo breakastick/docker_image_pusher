@@ -1,6 +1,6 @@
 nginx
 #支持私库
-xhofe/alist:latest
+--platform=linux/arm64 xhofe/alist:v3.35.0
 #支持指定架构
 cloudflare/cloudflared
 cooderl/wewe-rss-sqlite
