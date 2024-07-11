@@ -10,3 +10,4 @@ jellyfin/jellyfin
 zishuo/embyserver
 tinymediamanager/tinymediamanager
 ghcr.io/estrellaxd/auto_bangumi
+--platform=linux/arm64 zerotier/zerotier
