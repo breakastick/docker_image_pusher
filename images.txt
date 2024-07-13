@@ -11,3 +11,4 @@ zishuo/embyserver
 tinymediamanager/tinymediamanager
 ghcr.io/estrellaxd/auto_bangumi
 --platform=linux/arm64 zerotier/zerotier
+--platform=linux/arm64 germannewsmaker/myspeed
