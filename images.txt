@@ -1,13 +1,7 @@
 nginx
 #支持私库
---platform=linux/arm64 xhofe/alist:v3.35.0
 #支持指定架构
-cloudflare/cloudflared
-cooderl/wewe-rss-sqlite
-miniflux/miniflux
-synctvorg/synctv
-jellyfin/jellyfin
-zishuo/embyserver
+xhongc/music_tag_web
 tinymediamanager/tinymediamanager
 ghcr.io/estrellaxd/auto_bangumi
 --platform=linux/arm64 zerotier/zerotier
