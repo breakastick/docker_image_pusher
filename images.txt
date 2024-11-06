@@ -10,3 +10,4 @@ ellermister/mybili
 --platform=linux/amd64 redis
 syncthing/syncthing
 --platform=linux/arm64 syncthing/syncthing
+--platform=linux/arm64 nextcloud/all-in-one
