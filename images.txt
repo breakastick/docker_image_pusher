@@ -11,3 +11,4 @@ ellermister/mybili
 syncthing/syncthing
 --platform=linux/arm64 syncthing/syncthing
 --platform=linux/amd64 nextcloud/all-in-one
+cloudflare/cloudflared:latest
