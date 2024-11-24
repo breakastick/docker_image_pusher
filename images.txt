@@ -4,11 +4,4 @@ nginx
 xhongc/music_tag_web
 tinymediamanager/tinymediamanager
 ghcr.io/estrellaxd/auto_bangumi
---platform=linux/arm64 zerotier/zerotier
---platform=linux/arm64 linuxserver/transmission
-ellermister/mybili
---platform=linux/amd64 redis
-syncthing/syncthing
---platform=linux/arm64 syncthing/syncthing
---platform=linux/amd64 nextcloud/all-in-one
-cloudflare/cloudflared:latest
+superng6/qbittorrentee
