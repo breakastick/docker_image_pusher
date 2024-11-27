@@ -5,3 +5,4 @@ xhongc/music_tag_web
 tinymediamanager/tinymediamanager
 ghcr.io/estrellaxd/auto_bangumi
 superng6/qbittorrentee
+--platform=linux/arm64 snowdreamtech/frpc
