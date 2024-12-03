@@ -1,8 +1,10 @@
-nginx
 #支持私库
 #支持指定架构
-xhongc/music_tag_web
-tinymediamanager/tinymediamanager
-ghcr.io/estrellaxd/auto_bangumi
-superng6/qbittorrentee
---platform=linux/amd64 snowdreamtech/frpc
+#xhongc/music_tag_web
+#tinymediamanager/tinymediamanager
+#ghcr.io/estrellaxd/auto_bangumi
+#superng6/qbittorrentee
+#--platform=linux/amd64 snowdreamtech/frpc
+youshandefeiyang/av3a-assistant:amd64
+youshandefeiyang/allinone
+ghcr.io/koodo-reader/koodo-reader
