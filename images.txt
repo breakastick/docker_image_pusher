@@ -5,6 +5,4 @@
 #ghcr.io/estrellaxd/auto_bangumi
 #superng6/qbittorrentee
 #--platform=linux/amd64 snowdreamtech/frpc
-youshandefeiyang/av3a-assistant:amd64
-youshandefeiyang/allinone
-ghcr.io/koodo-reader/koodo-reader
+postgres:15
