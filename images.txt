@@ -1,8 +1,5 @@
 #支持私库
 #支持指定架构
+ghcr.io/ajnart/homarr:latest
 #xhongc/music_tag_web
-#tinymediamanager/tinymediamanager
-#ghcr.io/estrellaxd/auto_bangumi
-#superng6/qbittorrentee
 #--platform=linux/amd64 snowdreamtech/frpc
-postgres:15
