@@ -1,5 +1,6 @@
 #支持私库
 #支持指定架构
-ghcr.io/ajnart/homarr:latest
 #xhongc/music_tag_web
 #--platform=linux/amd64 snowdreamtech/frpc
+jlesage/video-duplicate-finder
+dreamacro/clash
