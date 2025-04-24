@@ -2,4 +2,4 @@
 #支持指定架构
 #xhongc/music_tag_web
 #--platform=linux/amd64 snowdreamtech/frpc
-ekho/utorrent:v2.0.3
+crazymax/qbittorrent:4.1.9
