@@ -4,4 +4,5 @@
 #--platform=linux/arm64 snowdreamtech/frpc
 # dreamacro/clash
 # haishanh/yacd
---platform=linux/arm64 ghcr.io/estrellaxd/auto_bangumi
+ghcr.io/estrellaxd/auto_bangumi
+
