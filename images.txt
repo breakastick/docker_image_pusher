@@ -4,5 +4,5 @@
 #--platform=linux/arm64 snowdreamtech/frpc
 # dreamacro/clash
 # haishanh/yacd
-ghcr.io/estrellaxd/auto_bangumi
-
+# ghcr.io/estrellaxd/auto_bangumi
+docker.n8n.io/n8nio/n8n
