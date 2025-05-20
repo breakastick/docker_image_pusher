@@ -5,4 +5,4 @@
 # dreamacro/clash
 # haishanh/yacd
 # ghcr.io/estrellaxd/auto_bangumi
-docker.n8n.io/n8nio/n8n
+docker.io/library/node:18-slim
