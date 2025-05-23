@@ -5,4 +5,5 @@
 # dreamacro/clash
 # haishanh/yacd
 # ghcr.io/estrellaxd/auto_bangumi
-docker.io/library/node:18-slim
+# docker.io/library/node:18-slim
+docker.io/library/golang:1.24
