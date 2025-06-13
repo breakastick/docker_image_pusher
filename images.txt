@@ -6,4 +6,4 @@
 # haishanh/yacd
 # ghcr.io/estrellaxd/auto_bangumi
 # docker.io/library/node:18-slim
-containrrr/watchtower
+traefik:v2.4
